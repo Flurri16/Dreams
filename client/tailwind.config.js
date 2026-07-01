@@ -7,10 +7,10 @@ module.exports = {
     extend: {
       colors: {
         dirtyBlack: '#bc986a',
-        dirtyWhite: 'fbeec1',
+        dirtyWhite: '#fbeec1',
         dirtyBrown: '#daad86',
-        mainColor:'659dbd',
-        secondaryColor:'8D8741',
+        mainColor:'#659dbd',
+        secondaryColor:'#8D8741',
       }
     },
   },
